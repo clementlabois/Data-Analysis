@@ -29,7 +29,14 @@ My CV in [pdf](https://github.com/Anubix069/Data-Analysis/main/CV_Clement_Eng.pd
 Explore my projects to see how I leverage technical skills and analytical thinking to tackle real-world challenges!
 
 ## Table of Contents
--[About](https://github.com/Anubix069/Data-Analysis/blob/main/README.md#about)
+- [About](https://github.com/Anubix069/Data-Analysis/blob/main/README.md#about)
+- [Portofolio Projects](https://github.com/Anubix069/Data-Analysis/blob/main/README.md#portofolio-projects)
+  - Python
+  - SQL
+  - R
+  - Google sheet / Excel
+  - Make
+  - Power BI
 
 ## Certificates
 -[Power BI](https://files.datascientest.com/certification/36e4d499-49c4-4fbb-939e-dafa71eb0d47.pdf) (April 2025) (DataScientest)
