@@ -26,7 +26,7 @@ In my free time, I enjoy exploring new data analysis tool and techniques
 
 
 
-My CV in [pdf](https://github.com/Anubix069/Data-Analysis/main/CV_Clement_Eng.pdf)
+My CV in [pdf](https://github.com/Anubix069/Data-Analysis/blob/main/CV_Clement_Eng.pdf)
 
 Explore my projects to see how I leverage technical skills and analytical thinking to tackle real-world challenges!
 
