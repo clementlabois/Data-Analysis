@@ -42,19 +42,19 @@ Explore my projects to see how I leverage technical skills and analytical thinki
 
 ## Education
 - **Data Analyst** Diploma co-certified by MINES ParisTech | PSL, Data Analysis March 2025 - May 2025 :
-  - Programming: Python, Numpy, Pandas
-  - Data visualisation: Matplotlib, Seaborn, Plotly, Art of storytelling
-  - Machine Learning: Classification and regression methods, pipelines
-  - Data analysis: data analysis methods, dimension reduction and clustering
-  - Text data extraction and management : Text mining, introduction to CSS, HTML and WebScraping
-  - Business Intelligence: Power BI, Tableau, Looker Studio
-  - Database / Big Data: SQL language, data processing and data modelling
-  - Programming: Python, Numpy, Pandas - Data visualisation: Matplotlib, Seaborn, Plotly, Art of storytelling
-  - Machine Learning: Classification and regression methods, pipelines - Data analysis: data analysis methods, dimension reduction and clustering
-  - Text data extraction and management : Text mining, introduction to CSS, HTML and WebScraping
-  - Business Intelligence: Power BI, Tableau, Looker Studio - Database / Big Data: SQL language, data processing and data modelling
+  - **Programming:** Python, Numpy, Pandas
+  - **Data visualisation:** Matplotlib, Seaborn, Plotly, Art of storytelling
+  - **Machine Learning:** Classification and regression methods, pipelines
+  - **Data analysis:** data analysis methods, dimension reduction and clustering
+  - **Text data extraction and management:** Text mining, introduction to CSS, HTML and WebScraping
+  - **Business Intelligence:** Power BI, Tableau, Looker Studio
+  - **Database / Big Data:** SQL language, data processing and data modelling
+  - **Programming:** Python, Numpy, Pandas - Data visualisation: Matplotlib, Seaborn, Plotly, Art of storytelling
+  - **Machine Learning:** Classification and regression methods, pipelines - Data analysis: data analysis methods, dimension reduction and clustering
+  - **Text data extraction and management:** Text mining, introduction to CSS, HTML and WebScraping
+  - **Business Intelligence:** Power BI, Tableau, Looker Studio - Database / Big Data: SQL language, data processing and data modelling
 
-- **PhD in Chemistry-Biology** Study of <i>Vitis vinifera </i> subspecies during infection by <i>Neofusicoccum parvum </i> September 2017- December 2021
+- **PhD in Chemistry-Biology** Study of *Vitis vinifera*  subspecies during infection by *Neofusicoccum parvum* September 2017- December 2021
 
 ## Certificates
 - [Power BI](https://files.datascientest.com/certification/36e4d499-49c4-4fbb-939e-dafa71eb0d47.pdf) (April 2025 - DataScientest)
