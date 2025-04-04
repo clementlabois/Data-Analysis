@@ -38,5 +38,9 @@ Explore my projects to see how I leverage technical skills and analytical thinki
   - Make
   - Power BI
 
+## Education
+- **Data Analyst** Diploma co-certified by MINES ParisTech | PSL, Data Analysis March 2025 - May 2025
+- **PhD in Chemistry-Biology** Study of <i>Vitis vinifera </i> subspecies during infection by <i>Neofusicoccum parvum </i> September 2017- December 2021
+
 ## Certificates
 -[Power BI](https://files.datascientest.com/certification/36e4d499-49c4-4fbb-939e-dafa71eb0d47.pdf) (April 2025) (DataScientest)
