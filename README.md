@@ -1,7 +1,13 @@
 <h1 align="center"> Clément Labois | PhD </h1>
 <h2 align="center"> Data Analyst Portfolio </h3>
 
-Hello 👋, I'm Clément , a passionate Data Analyst and Data Scientist with a strong background in laboratory management and data-driven decision-making. With expertise in Python, SQL, and data visualization tools like Power BI and Tableau, I thrive on uncovering insights and optimizing processes through data. My previous experience managing multidisciplinary teams has honed my problem-solving abilities and my commitment to quality and accuracy in data analysis.
+Hello 👋, I'm Clément , a passionate Data Analyst 📊 and Data Scientist 🧑‍🔬 with a strong background in laboratory management and data-driven decision-making. 
+
+With expertise in Python, SQL, and data visualization tools like Power BI and Tableau, I thrive on uncovering insights and optimizing processes through data. 
+
+My previous experience managing multidisciplinary teams has honed my problem-solving abilities and my commitment to quality and accuracy in data analysis.
+
+In my free time, I enjoy exploring new data analysis tool and techniques
 
 ## Tech stack
 
@@ -24,3 +30,6 @@ Explore my projects to see how I leverage technical skills and analytical thinki
 
 ## Table of Contents
 -[About](https://github.com/Anubix069/Data-Analysis/blob/main/README.md#about)
+
+## Certificates
+-[Power BI](https://files.datascientest.com/certification/36e4d499-49c4-4fbb-939e-dafa71eb0d47.pdf) (April 2025) (DataScientest)
