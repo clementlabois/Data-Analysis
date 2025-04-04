@@ -1,10 +1,26 @@
-# Clément LABOIS - Data Analyst Portfolio
+<h1 align="center"> Clément Labois | PhD </h1>
+<h2 align="center"> Data Analyst Portfolio </h3>
+
+Hello 👋, I'm Clément , a passionate Data Analyst and Data Scientist with a strong background in laboratory management and data-driven decision-making. With expertise in Python, SQL, and data visualization tools like Power BI and Tableau, I thrive on uncovering insights and optimizing processes through data. My previous experience managing multidisciplinary teams has honed my problem-solving abilities and my commitment to quality and accuracy in data analysis.
 
 ## Tech stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff)](#)
+[![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF6?logo=google-bigquery&logoColor=fff)](#)
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
+[![Make](https://img.shields.io/badge/Make-6D00CC?logo=make&logoColor=fff)](#)
+[![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?&logo=microsoft-word&logoColor=white)](#)
+[![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?e&logo=microsoft-excel&logoColor=white)](#)
+[![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?&logo=microsoftpowerpoint&logoColor=white)](#)
+
+
 
 My CV in [pdf](https://github.com/Anubix069/Data-Analysis/blob/main/CV_Clement_Eng.pdf)
+
+Explore my projects to see how I leverage technical skills and analytical thinking to tackle real-world challenges!
+
+## Table of Contents
+-[About](https://github.com/Anubix069/Data-Analysis/blob/main/README.md#about)
