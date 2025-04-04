@@ -55,4 +55,8 @@ Explore my projects to see how I leverage technical skills and analytical thinki
 - **PhD in Chemistry-Biology** Study of <i>Vitis vinifera </i> subspecies during infection by <i>Neofusicoccum parvum </i> September 2017- December 2021
 
 ## Certificates
--[Power BI](https://files.datascientest.com/certification/36e4d499-49c4-4fbb-939e-dafa71eb0d47.pdf) (April 2025) (DataScientest)
+- [Power BI](https://files.datascientest.com/certification/36e4d499-49c4-4fbb-939e-dafa71eb0d47.pdf) (April 2025 - DataScientest)
+
+- [SQL For Data Science](https://files.datascientest.com/certification/3a9f003e-1294-4182-8c86-adb115a6c99d.pdf) (March 2025 - DataScientest)
+
+- [Python For Data Analysis](https://files.datascientest.com/certification/42b3489c-ca53-44d5-85e2-e40edc0e19a5.pdf) (March 2025 - DataScientest)
