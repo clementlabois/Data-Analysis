@@ -40,7 +40,9 @@ Explore my projects to see how I leverage technical skills and analytical thinki
   - R
   - Google sheet / Excel
   - Make
-  - Power BI
+  - Power BI / Looker
+  - Streamlit
+
 
 ## Education
 - **Data Analyst** Diploma co-certified by MINES ParisTech | PSL, Data Analysis March 2025 - May 2025 :
