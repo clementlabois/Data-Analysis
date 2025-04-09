@@ -43,6 +43,8 @@ Explore my projects to see how I leverage technical skills and analytical thinki
   - Power BI / Looker
   - Streamlit
 
+## Portfolio Projects
+In this section, I will list data analytics projects and briefly describe the technology stack used to solve the cases.
 
 ## Education
 - **Data Analyst** Diploma co-certified by MINES ParisTech | PSL, Data Analysis March 2025 - May 2025 :
