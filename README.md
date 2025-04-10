@@ -2,6 +2,7 @@
 <h1 align="center"> 🚧 WIP 🚧 </h1>
 <h2 align="center"> Data Analyst Portfolio </h3>
 
+## About
 Hello 👋, I'm Clément , a passionate Data Analyst 📊 and Data Scientist 🧑‍🔬 with a strong background in laboratory management and data-driven decision-making. 
 
 With expertise in Python, SQL, and data visualization tools like Power BI and Tableau, I thrive on uncovering insights and optimizing processes through data. 
@@ -34,7 +35,7 @@ My CV in [pdf](https://github.com/Anubix069/Data-Analysis/blob/main/CV_Clement_E
 Explore my projects to see how I leverage technical skills and analytical thinking to tackle real-world challenges!
 
 ## Table of Contents
-- [About](#https://github.com/Anubix069/Data-Analysis/blob/main/README.md#about)
+- [About](#about)
 - [Portofolio Projects](#https://github.com/Anubix069/Data-Analysis/blob/main/README.md#portofolio-projects)
   - Python
   - SQL
