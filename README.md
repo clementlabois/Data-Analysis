@@ -38,7 +38,7 @@ Explore my projects to see how I leverage technical skills and analytical thinki
 - [Portofolio Projects](https://github.com/Anubix069/Data-Analysis/blob/main/README.md#portofolio-projects)
   - Python
   - SQL
-    - [Medical Data Analytics: Tuberculosis Trends in X-Ray Patients](https://github.com/Anubix069/Portofolio-Projects/blob/main/sql/projects/project-01/README.md)
+    - [Medical Data Analytics: Tuberculosis Trends in X-Ray Patients](https://github.com/Anubix069/Data-Analysis/blob/main/README.md#portofolio-projects#medical-data-analytics-tuberculosis-trends-in-xray-patients)
   - R
   - Google sheet / Excel
   - Make
@@ -48,7 +48,7 @@ Explore my projects to see how I leverage technical skills and analytical thinki
 ## Portfolio Projects
 In this section, I will list data analytics projects and briefly describe the technology stack used to solve the cases.
 
-### Medical Data Analytics: Tuberculosis Trends in X-Ray Patients
+### Medical Data Analytics Tuberculosis Trends in XRay Patients
 **Code:** https://github.com/Anubix069/Portofolio-Projects/blob/main/sql/projects/project-01/README.md
 
 **Goal:** identify and understand key patterns and potential correlations between patient attributes (such as symptoms, age, gender, smoking history, and previous TB history) and tuberculosis diagnosis
