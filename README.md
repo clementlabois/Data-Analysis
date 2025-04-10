@@ -1,4 +1,5 @@
-<h1 align="center"> Clément Labois | PhD </h1>
+<h1 align="center"> Clément Labois | PhD WIP </h1>
+<h1 align="center"> 🚧 WIP 🚧 </h1>
 <h2 align="center"> Data Analyst Portfolio </h3>
 
 Hello 👋, I'm Clément , a passionate Data Analyst 📊 and Data Scientist 🧑‍🔬 with a strong background in laboratory management and data-driven decision-making. 
@@ -37,6 +38,7 @@ Explore my projects to see how I leverage technical skills and analytical thinki
 - [Portofolio Projects](https://github.com/Anubix069/Data-Analysis/blob/main/README.md#portofolio-projects)
   - Python
   - SQL
+    - [Medical Data Analytics: Tuberculosis Trends in X-Ray Patients](https://github.com/Anubix069/Portofolio-Projects/blob/main/sql/projects/project-01/README.md)
   - R
   - Google sheet / Excel
   - Make
@@ -46,6 +48,13 @@ Explore my projects to see how I leverage technical skills and analytical thinki
 ## Portfolio Projects
 In this section, I will list data analytics projects and briefly describe the technology stack used to solve the cases.
 
+### Medical Data Analytics: Tuberculosis Trends in X-Ray Patients
+**Code:** https://github.com/Anubix069/Portofolio-Projects/blob/main/sql/projects/project-01/README.md
+
+**Goal:** identify and understand key patterns and potential correlations between patient attributes (such as symptoms, age, gender, smoking history, and previous TB history) and tuberculosis diagnosis
+
+**Description:** This synthetic dataset comprises 20,000 chest X-ray records categorized as either "Normal" or "Tuberculosis." It was specifically designed to support the training and evaluation of classification models in medical image analysis. The dataset serves as a valuable resource for developing machine learning and deep learning algorithms aimed at detecting tuberculosis from radiographic data. 
+  
 ## Education
 - **Data Analyst** Diploma co-certified by MINES ParisTech | PSL, Data Analysis March 2025 - May 2025 :
   - **Programming:** Python, Numpy, Pandas
