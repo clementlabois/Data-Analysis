@@ -77,5 +77,5 @@ In this section, I will list data analytics projects and briefly describe the te
 - [Python For Data Analysis](https://files.datascientest.com/certification/42b3489c-ca53-44d5-85e2-e40edc0e19a5.pdf) (March 2025 - DataScientest)
 
 ## Contacts
-- LinkedIn : [@clementlabois](www.linkedin.com/in/)
+- LinkedIn : [@clementlabois](www.linkedin.com/in/clementlabois)
 - Email : clement.labois@gmail.com
