@@ -50,7 +50,7 @@ Explore my projects to see how I leverage technical skills and analytical thinki
 In this section, I will list data analytics projects and briefly describe the technology stack used to solve the cases.
 
 ### Medical Data Analytics Tuberculosis Trends in XRay Patients
-**Code:** https://github.com/Anubix069/Portofolio-Projects/blob/main/sql/projects/project-01/README.md
+**Code:** https://github.com/Anubix069/Portfolio-Projects/blob/main/sql/projects/project-01/README.md
 
 **Goal:** identify and understand key patterns and potential correlations between patient attributes (such as symptoms, age, gender, smoking history, and previous TB history) and tuberculosis diagnosis
 
