@@ -75,3 +75,7 @@ In this section, I will list data analytics projects and briefly describe the te
 - [Power BI](https://files.datascientest.com/certification/36e4d499-49c4-4fbb-939e-dafa71eb0d47.pdf) (April 2025 - DataScientest)
 - [SQL For Data Science](https://files.datascientest.com/certification/3a9f003e-1294-4182-8c86-adb115a6c99d.pdf) (March 2025 - DataScientest)
 - [Python For Data Analysis](https://files.datascientest.com/certification/42b3489c-ca53-44d5-85e2-e40edc0e19a5.pdf) (March 2025 - DataScientest)
+
+## Contacts
+- LinkedIn : [@clementlabois](www.linkedin.com/in/)
+- Email : clement.labois@gmail.com
