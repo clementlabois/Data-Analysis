@@ -36,7 +36,7 @@ Explore my projects to see how I leverage technical skills and analytical thinki
 
 ## Table of Contents
 - [About](#about)
-- [Portfolio Projects](#portofolio-projects)
+- [Portfolio Projects](#portfolio-projects)
   - Python
   - SQL
     - [Medical Data Analytics: Tuberculosis Trends in X-Ray Patients](#medical-data-analytics-tuberculosis-trends-in-xray-patients)
