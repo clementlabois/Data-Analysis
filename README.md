@@ -36,10 +36,10 @@ Explore my projects to see how I leverage technical skills and analytical thinki
 
 ## Table of Contents
 - [About](#about)
-- [Portofolio Projects](#https://github.com/Anubix069/Data-Analysis/blob/main/README.md#portofolio-projects)
+- [Portofolio Projects](#portofolio-projects)
   - Python
   - SQL
-    - [Medical Data Analytics: Tuberculosis Trends in X-Ray Patients](#https://github.com/Anubix069/Data-Analysis/blob/main/README.md#portofolio-projects#medical-data-analytics-tuberculosis-trends-in-xray-patients)
+    - [Medical Data Analytics: Tuberculosis Trends in X-Ray Patients](#medical-data-analytics-tuberculosis-trends-in-xray-patients)
   - R
   - Google sheet / Excel
   - Make
