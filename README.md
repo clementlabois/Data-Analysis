@@ -1,4 +1,4 @@
-<h1 align="center"> Clément Labois | PhD WIP </h1>
+<h1 align="center"> Clément Labois | PhD </h1>
 <h1 align="center"> 🚧 WIP 🚧 </h1>
 <h2 align="center"> Data Analyst Portfolio </h3>
 
