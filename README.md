@@ -45,6 +45,7 @@ Explore my projects to see how I leverage technical skills and analytical thinki
   - Make
   - Power BI / Looker
   - Streamlit
+    - [Global Temperature & CO₂ Emissions Analysis Project](#global-temperature-project-datascientest)
 
 ## Portfolio Projects
 In this section, I will list data analytics projects and briefly describe the technology stack used to solve the cases.
@@ -55,7 +56,15 @@ In this section, I will list data analytics projects and briefly describe the te
 **Goal:** identify and understand key patterns and potential correlations between patient attributes (such as symptoms, age, gender, smoking history, and previous TB history) and tuberculosis diagnosis
 
 **Description:** This synthetic dataset comprises 20,000 chest X-ray records categorized as either "Normal" or "Tuberculosis." It was specifically designed to support the training and evaluation of classification models in medical image analysis. The dataset serves as a valuable resource for developing machine learning and deep learning algorithms aimed at detecting tuberculosis from radiographic data. 
-  
+
+###  Global Temperature Project DataScientest
+**Code:** https://github.com/Anubix069/Portfolio-Projects/tree/main/streamlit/DataScientest
+
+**Goal:** Analyze the evolution of global temperatures and CO₂ emissions over time in order to understand the correlation between human activity—especially fossil fuel consumption—and key climate change indicators, across different continents and decades.
+
+**Description:** : As part of my Data Analyst Bootcamp at DataScientest, I had the opportunity to collaborate with Quentin Dusautoir, Nizar Mensi, and Jessica Renaudet on a high-impact, socially relevant project: analyzing the evolution of global temperatures and CO₂ emissions over time.
+Using trusted sources like Our World in Data and NASA’s GISTEMP dataset, we aimed to better understand the correlation between human activity, fossil fuel consumption, and climate change indicators, across different continents and over several decades.
+
 ## Education
 - **Data Analyst** Diploma co-certified by MINES ParisTech | PSL, Data Analysis March 2025 - May 2025 :
   - **Programming:** Python, Numpy, Pandas
