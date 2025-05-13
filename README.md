@@ -5,7 +5,7 @@
 ## About
 Hello 👋, I'm Clément , a passionate Data Analyst 📊 and Data Scientist 🧑‍🔬 with a strong background in laboratory management and data-driven decision-making. 
 
-With expertise in Python, SQL, and data visualization tools like Power BI and Tableau, I thrive on uncovering insights and optimizing processes through data. 
+With expertise in Python, SQL, and data visualization tools like Power BI and Looker, I thrive on uncovering insights and optimizing processes through data. 
 
 My previous experience managing multidisciplinary teams has honed my problem-solving abilities and my commitment to quality and accuracy in data analysis.
 
