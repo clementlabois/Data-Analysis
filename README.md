@@ -13,6 +13,8 @@ In my free time, I enjoy exploring new data analysis tool and techniques
 
 ## Tech stack
 
+[![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=fff)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-b7b7f7?style=for-the-badge&logo=SQLite&logoColor=fff)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff)](#)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
