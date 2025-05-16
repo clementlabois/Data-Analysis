@@ -46,7 +46,7 @@ In this section, I will list data analytics projects and briefly describe the te
 
 **Description:** This synthetic dataset comprises 20,000 chest X-ray records categorized as either "Normal" or "Tuberculosis." It was specifically designed to support the training and evaluation of classification models in medical image analysis. The dataset serves as a valuable resource for developing machine learning and deep learning algorithms aimed at detecting tuberculosis from radiographic data. 
 
-### Project 2 : 🌍 Global Temperature & CO₂ Emissions Analysis Project - Interactive Data Dashboard - Power BI
+### Project 2 : 🌍 Global Temperature & CO₂ Emissions Analysis Project - Python - Interactive Data Dashboard - Power BI
 **Project Page:** https://github.com/clementlabois/Portfolio-Projects/tree/main/Project-2
 
 **Goal:** Analyze the evolution of global temperatures and CO₂ emissions over time in order to understand the correlation between human activity—especially fossil fuel consumption—and key climate change indicators, across different continents and decades.
@@ -56,7 +56,7 @@ Using trusted sources like Our World in Data and NASA’s GISTEMP dataset, we ai
 
 **App:** https://projetpy-mwjtk9yhgbrrrwrfv5vp7b.streamlit.app/
 
-### Project 3 : 🕵️‍♂️ Web Scraping - Book Data from Books to Scrape 📚 – Interactive Data Dashboard
+### Project 3 : 🕵️‍♂️ Web Scraping - Book Data from Books to Scrape 📚 – Python - Interactive Data Dashboard
 **Project Page:** https://github.com/clementlabois/Portfolio-Projects/tree/main/Project-3
 
 **Goal:** Automate data extraction from an e-commerce-style website and build an interactive dashboard to visualize product metrics and textual patterns based on book data.
