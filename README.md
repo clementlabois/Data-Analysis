@@ -64,7 +64,7 @@ Using trusted sources like Our World in Data and NASA’s GISTEMP dataset, we ai
 **Description:** This project is based on Books to Scrape, a mock e-commerce platform designed for practicing web scraping.
 Using BeautifulSoup, I created a scraper that collects book data (title, price, rating, category, and URL). The data is then visualized using Streamlit in a dashboard that includes both numeric and textual analysis.
 
-**App:** 
+**App:** https://gz6pbvgvnmmbwejywbbpde.streamlit.app/
 
 ## Education
 - **Data Analyst** Diploma co-certified by MINES ParisTech | PSL, Data Analysis March 2025 - May 2025 :
