@@ -54,7 +54,7 @@ In this section, I will list data analytics projects and briefly describe the te
 **Description:** As part of my Data Analyst Bootcamp at DataScientest, I had the opportunity to collaborate with Quentin Dusautoir, Nizar Mensi, and Jessica Renaudet on a high-impact, socially relevant project: analyzing the evolution of global temperatures and CO₂ emissions over time.
 Using trusted sources like Our World in Data and NASA’s GISTEMP dataset, we aimed to better understand the correlation between human activity, fossil fuel consumption, and climate change indicators, across different continents and over several decades.
 
-**App:** https://projetpy-mwjtk9yhgbrrrwrfv5vp7b.streamlit.app/
+**App:** https://projetpy-c7vrmelcdvflfs9p6abdr6.streamlit.app/
 
 ### Project 3 : 🕵️‍♂️ Web Scraping - Book Data from Books to Scrape 📚 – Python - Interactive Data Dashboard
 **Project Page:** https://github.com/clementlabois/Portfolio-Projects/tree/main/Project-3
