@@ -36,30 +36,17 @@ My CV in [pdf](https://github.com/Anubix069/Data-Analysis/blob/main/CV_Clement_E
 
 Explore my projects to see how I leverage technical skills and analytical thinking to tackle real-world challenges!
 
-## Table of Contents
-- [About](#about)
-- [Portfolio Projects](#portfolio-projects)
-  - Python
-  - SQL
-    - [Medical Data Analytics: Tuberculosis Trends in X-Ray Patients](#medical-data-analytics-tuberculosis-trends-in-xray-patients)
-  - R
-  - Google sheet / Excel
-  - Make
-  - Power BI / Looker
-  - Streamlit
-    - [Global Temperature & CO₂ Emissions Analysis Project](#global-temperature-project-datascientest)
-
 ## Portfolio Projects
 In this section, I will list data analytics projects and briefly describe the technology stack used to solve the cases.
 
-### Medical Data Analytics Tuberculosis Trends in XRay Patients
+### Project 1 : Medical Data Analytics Tuberculosis Trends in XRay Patients
 **Code:** https://github.com/Anubix069/Portfolio-Projects/tree/main/sql/projects/project-01
 
 **Goal:** identify and understand key patterns and potential correlations between patient attributes (such as symptoms, age, gender, smoking history, and previous TB history) and tuberculosis diagnosis
 
 **Description:** This synthetic dataset comprises 20,000 chest X-ray records categorized as either "Normal" or "Tuberculosis." It was specifically designed to support the training and evaluation of classification models in medical image analysis. The dataset serves as a valuable resource for developing machine learning and deep learning algorithms aimed at detecting tuberculosis from radiographic data. 
 
-###  Global Temperature Project DataScientest
+### Project 2 : Global Temperature Project DataScientest
 **Code:** https://github.com/Anubix069/Portfolio-Projects/tree/main/streamlit/DataScientest
 
 **Goal:** Analyze the evolution of global temperatures and CO₂ emissions over time in order to understand the correlation between human activity—especially fossil fuel consumption—and key climate change indicators, across different continents and decades.
