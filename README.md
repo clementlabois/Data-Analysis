@@ -51,8 +51,20 @@ In this section, I will list data analytics projects and briefly describe the te
 
 **Goal:** Analyze the evolution of global temperatures and CO₂ emissions over time in order to understand the correlation between human activity—especially fossil fuel consumption—and key climate change indicators, across different continents and decades.
 
-**Description:** : As part of my Data Analyst Bootcamp at DataScientest, I had the opportunity to collaborate with Quentin Dusautoir, Nizar Mensi, and Jessica Renaudet on a high-impact, socially relevant project: analyzing the evolution of global temperatures and CO₂ emissions over time.
+**Description:** As part of my Data Analyst Bootcamp at DataScientest, I had the opportunity to collaborate with Quentin Dusautoir, Nizar Mensi, and Jessica Renaudet on a high-impact, socially relevant project: analyzing the evolution of global temperatures and CO₂ emissions over time.
 Using trusted sources like Our World in Data and NASA’s GISTEMP dataset, we aimed to better understand the correlation between human activity, fossil fuel consumption, and climate change indicators, across different continents and over several decades.
+
+**App:** https://projetpy-mwjtk9yhgbrrrwrfv5vp7b.streamlit.app/
+
+### Project 3 : 
+**Code:** 
+
+**Goal:** Automate data extraction from an e-commerce-style website and build an interactive dashboard to visualize product metrics and textual patterns based on book data.
+
+**Description:** This project is based on Books to Scrape (https://books.toscrape.com/), a mock e-commerce platform designed for practicing web scraping.
+Using Selenium and BeautifulSoup, I created a scraper that collects book data (title, price, rating, category, and URL). The data is then visualized using Streamlit in a dashboard that includes both numeric and textual analysis.
+
+**App:** 
 
 ## Education
 - **Data Analyst** Diploma co-certified by MINES ParisTech | PSL, Data Analysis March 2025 - May 2025 :
