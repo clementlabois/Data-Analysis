@@ -39,14 +39,14 @@ Explore my projects to see how I leverage technical skills and analytical thinki
 ## Portfolio Projects
 In this section, I will list data analytics projects and briefly describe the technology stack used to solve the cases.
 
-### Project 1 : Medical Data Analytics Tuberculosis Trends in XRay Patients
+### Project 1 : 🩻 Projet Tuberculosis X-ray Dataset 🫁 - SQLite
 **Code:** https://github.com/clementlabois/Portfolio-Projects/tree/main/Project-1
 
 **Goal:** identify and understand key patterns and potential correlations between patient attributes (such as symptoms, age, gender, smoking history, and previous TB history) and tuberculosis diagnosis
 
 **Description:** This synthetic dataset comprises 20,000 chest X-ray records categorized as either "Normal" or "Tuberculosis." It was specifically designed to support the training and evaluation of classification models in medical image analysis. The dataset serves as a valuable resource for developing machine learning and deep learning algorithms aimed at detecting tuberculosis from radiographic data. 
 
-### Project 2 : Global Temperature Project DataScientest - Interactive Data Dashboard - Power BI
+### Project 2 : 🌍 Global Temperature & CO₂ Emissions Analysis Project - Interactive Data Dashboard - Power BI
 **Code:** https://github.com/clementlabois/Portfolio-Projects/tree/main/Project-2
 
 **Goal:** Analyze the evolution of global temperatures and CO₂ emissions over time in order to understand the correlation between human activity—especially fossil fuel consumption—and key climate change indicators, across different continents and decades.
