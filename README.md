@@ -57,7 +57,7 @@ Using trusted sources like Our World in Data and NASA’s GISTEMP dataset, we ai
 **App:** https://projetpy-mwjtk9yhgbrrrwrfv5vp7b.streamlit.app/
 
 ### Project 3 : Books to Scrape – Interactive Data Dashboard
-**Code:** 
+**Code:** https://github.com/clementlabois/Portfolio-Projects/tree/main/Project-3
 
 **Goal:** Automate data extraction from an e-commerce-style website and build an interactive dashboard to visualize product metrics and textual patterns based on book data.
 
