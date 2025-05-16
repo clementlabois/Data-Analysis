@@ -61,7 +61,7 @@ Using trusted sources like Our World in Data and NASA’s GISTEMP dataset, we ai
 
 **Goal:** Automate data extraction from an e-commerce-style website and build an interactive dashboard to visualize product metrics and textual patterns based on book data.
 
-**Description:** This project is based on Books to Scrape (https://books.toscrape.com/), a mock e-commerce platform designed for practicing web scraping.
+**Description:** This project is based on Books to Scrape, a mock e-commerce platform designed for practicing web scraping.
 Using Selenium and BeautifulSoup, I created a scraper that collects book data (title, price, rating, category, and URL). The data is then visualized using Streamlit in a dashboard that includes both numeric and textual analysis.
 
 **App:** 
